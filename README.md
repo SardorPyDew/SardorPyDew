@@ -1,8 +1,8 @@
-## Hi there 👋
-#[visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
-# https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge
+## Hi there! 👋 I'm Sardor
 
-                                                                   # I like to build things 💻.
+                                                                    I like to build things 💻.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardorPyDew&count_private=true&show_icons=true&theme=react&border_radius=10)
 
 
                                                                    
