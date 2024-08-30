@@ -1,5 +1,12 @@
 ## Hi there 👋
+#[visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+# https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge
 
+                                                                   # I like to build things 💻.
+
+
+                                                                   
+                          
 <!--
 **SardorPyDew/SardorPyDew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there! 👋 I'm Sardor
+
+- I'm a passionate Python Backend Developer with expertise in building robust and scalable applications. I enjoy working with various technologies to create efficient and innovative solutions. Here's a snapshot of my skills:
