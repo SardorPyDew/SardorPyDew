@@ -10,17 +10,18 @@ Hi there! 👋 I'm Sardor
   
 Stack I'm working with 💼
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-- 📋 Languages:
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- 📚 Frameworks, Platforms, and Libraries:
+-📋 Languages:
+#![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+#![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+-📚 Frameworks, Platforms, and Libraries:
 ![Celery](https://img.shields.io/badge/Celery-000000?style=flat-square&logo=celery&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
- 🧑‍💻 Developer/Forums:
-- [LeetCode](https://leetcode.com/)
-- [Stack Overflow](https://stackoverflow.com/)
+-🧑‍💻 Developer/Forums:
+#![LeetCode](https://leetcode.com/)
+#![Stack Overflow](https://stackoverflow.com/)
 ## 💾 Databases:
 - ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
 - ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
