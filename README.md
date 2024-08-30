@@ -1,8 +1,10 @@
 ## Hi there! 👋 I'm Sardor
-
-                                                                    I like to build things 💻.
+#                                                         I like to build things 💻.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardorPyDew&count_private=true&show_icons=true&theme=react&border_radius=10)
+https://github-readme-stats.vercel.app/api?username=itm10&count_private=true&theme=react&border_radius=10
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SardorPyDew&count_private=true&theme=react&border_radius=10)
+
 
 
                                                                    
