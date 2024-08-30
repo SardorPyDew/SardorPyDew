@@ -60,10 +60,11 @@ ________________________________________________________________________________
 - ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 
 Connect with Me
-[Telegram kanalima](https://t.me/Safaraliyev_S)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Safaraliyev_S)
 
-[LinkedIn profilim](https://www.linkedin.com/in/sardor-safaraliyev-44374328b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sardor-safaraliyev-44374328b/)
 
-[email](mailto:sardorsafaraliyev@icloud.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sardorsafaraliyev@icloud.com)
+
 
 
