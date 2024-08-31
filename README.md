@@ -60,7 +60,7 @@ I am a passionate Python Backend Developer with strong discipline. I enjoy worki
 
 - **🥅 Other:**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Redoc](https://img.shields.io/badge/Redocs-000000?style=for-the-badge&logo=redoc&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Redoc](https://img.shields.io/badge/Redoc-000000?style=for-the-badge&logo=redoc&logoColor=white)
 
 
 ## Projects
