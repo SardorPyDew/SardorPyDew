@@ -60,16 +60,17 @@ I am a passionate Python Backend Developer with strong discipline. I enjoy worki
 
 - **🥅 Other:**
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Redocs](https://img.shields.io/badge/Redocs-000000?style=flat-square&logo=redoc&logoColor=white)
+
 
 ## Projects
 
-- **Mobile shopping project Backend:** [Here](https://github.com/itm10/LazaProject)
-- **Booking.com clone Backend:** [Here](https://github.com/itm10/P15_Booking)
-- **Wrapbootstrap.com clone Backend:** [Here](https://github.com/itm10/FastAPIProject.git)
-- **Male-fashion with Django:** [Here](https://github.com/itm10/Male-fashion-Django-project)
-- **Reminder birthday telegram bot using aiogram :** [Here](https://github.com/itm10/reminder_birthday)
-- **Weather bot with aiogram:** [Here](https://github.com/itm10/weatherbot)
+- **Instagram clon project Backend:** [Here](https://github.com/SardorPyDew/Instagram-clone)
+- **Market24 project Backend:** [Here](https://github.com/SardorPyDew/Market24)
+- **Hop-Shop online market project:** [Here](https://github.com/SardorPyDew/Hop_Shop)
+- **Technomamarket hardware store:** [Here](https://github.com/SardorPyDew/Texnomarket)
+- **Movie bot made in aiogram by Kinochilar-Uyi:** [Here](https://github.com/SardorPyDew/Kinochilar-uyi)
+
 
 ## Connect with Me
 <div align="center"> 
