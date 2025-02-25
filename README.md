@@ -88,4 +88,4 @@ I am a passionate Python Backend Developer with strong discipline. I enjoy worki
 Feel free to explore my repositories to see some of my projects and contributions. If you have any questions or collaboration ideas, feel free to reach out! 😊
 
 
-![Snake animation](https://github.com/SardorPyDew/SardorPyDew/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
